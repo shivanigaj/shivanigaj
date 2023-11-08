@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivani
-- 👀 I’m interested in frontend developer
+- 👀 I’m interested in frontend
 - 🌱 I’m currently learning JS Framework
 - 📫 How to reach me- Drop an email shivanigaj123@gmail.com
 
